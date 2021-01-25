@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>My first PHP page - sm01d </h1>
+<h1>My first PHP page - sm01e </h1>
 
 <?php
-echo "Hello World! - sm01d ";
+echo "Hello World! - sm01e ";
 ?>
 
 </body>
